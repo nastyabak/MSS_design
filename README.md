@@ -1,1 +1,2 @@
 # Дизайн одностраничного сайта для компании ООО "Метрологические системы и сервис"
+ссылка на проект: https://www.figma.com/file/G0VJhP2THVV6QBZa2AV1qn/%D0%9E%D0%9E%D0%9E-%22%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%B8-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%22-%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3?type=design&node-id=0%3A1&mode=design&t=Du9TssTBGnZiDGdG-1
